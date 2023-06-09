@@ -8,7 +8,7 @@ language:
 
 ---
 
-<a target="_blank" href="https://colab.research.google.com/github.com/brunotech/Caramelinho/main/Caramelinho.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github.com/brunotech/Caramelinho/blob/main/Camarelinho.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><a target="_blank" href="https://github.com/brunotech/Caramelinho">
   <img src="https://img.shields.io/badge/-Github-blue?style=social&logo=github&link=https://github.com/brunotech/Caramelinho" alt="Github Project Page"/>
