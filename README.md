@@ -10,7 +10,7 @@
 
 <!-- header start -->
 <div style="width: 100%;">
-    <img src="https://blog.cobasi.com.br/wp-content/uploads/2022/08/AdobeStock_461738919.webp" alt="Caramelo" style="width: 100%; min-width: 400px; display: block; margin: auto;">
+    <img src="https://blog.cobasi.com.br/wp-content/uploads/2022/08/AdobeStock_461738919.webp" alt="Caramelinho" style="width: 100%; min-width: 400px; display: block; margin: auto;">
 </div>
 <!-- header end -->
 
@@ -22,21 +22,21 @@ This adapter was created with the [PEFT](https://github.com/huggingface/peft) li
 ## Model description
 [Falcon 7B](https://huggingface.co/tiiuae/falcon-7b)
 
-## 📣 Special Announcement: Introducing Caramelo - A New Language Model in Portuguese 🍬
+## 📣 Special Announcement: Introducing Caramelinho - A New Language Model in Portuguese 🍬
 
-Have you heard about Caramelo? We are excited to present to you the latest advancement in natural language processing in Portuguese. Developed with the help of the PEFT library and enhanced through the QLoRA method, Caramelo is the new language model that will tantalize your textual taste buds.
+Have you heard about Caramelinho? We are excited to present to you the latest advancement in natural language processing in Portuguese. Developed with the help of the PEFT library and enhanced through the QLoRA method, Caramelo is the new language model that will tantalize your textual taste buds.
 
 ## 💡 Cutting-edge Technology:
-Caramelo was created based on the acclaimed Falcon-7b base model and fine-tuned using the PEFT library. This powerful combination has enabled advanced training of the model, ensuring even more precise understanding and refined contexts.
+Caramelinho was created based on the acclaimed Falcon-7b base model and fine-tuned using the PEFT library. This powerful combination has enabled advanced training of the model, ensuring even more precise understanding and refined contexts.
 
 ## 🌍 Comprehensive Dataset:
-By utilizing the Canarim Instruct PTBR Dataset available at https://huggingface.co/datasets/dominguesm/Canarim-Instruct-PTBR-Dataset, Caramelo has been trained on over 300,000 instructions in Portuguese. This extensive dataset provides a wealth of language knowledge, enabling Caramelo to excel in understanding and generating instructional content.
+By utilizing the Canarim Instruct PTBR Dataset available at https://huggingface.co/datasets/dominguesm/Canarim-Instruct-PTBR-Dataset, Caramelinho has been trained on over 300,000 instructions in Portuguese. This extensive dataset provides a wealth of language knowledge, enabling Caramelo to excel in understanding and generating instructional content.
 
 ## ✨ QLoRA Method:
 Through the application of the innovative QLoRA (Query Language Representation Adaptation) method, Caramelo excels in its ability to answer your questions with greater precision and offer intelligent solutions. The answers provided by Caramelo are formulated based on extensive and up-to-date knowledge, making it an indispensable tool for researchers, writers, and enthusiasts of the Portuguese language.
 
-## ⚡ Experience Caramelo:
-We are thrilled to make Caramelo available to you. Try out this new language model in Brazilian Portuguese and unlock the full potential of written communication. Whether you are working on AI projects, developing virtual assistants, or simply aiming to enhance your language skills, Caramelo is ready to be your trusted partner.
+## ⚡ Experience Caramelinho:
+We are thrilled to make Caramelinho available to you. Try out this new language model in Brazilian Portuguese and unlock the full potential of written communication. Whether you are working on AI projects, developing virtual assistants, or simply aiming to enhance your language skills, Caramelo is ready to be your trusted partner.
 
 
 
